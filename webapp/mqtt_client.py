@@ -5,7 +5,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-BROKER = "test.mosquitto.org"
+BROKER = "broker.emqx.io"
 PORT = 1883
 PREFIX = "stanislawrayzacher_lightmanager"
 

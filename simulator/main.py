@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import json
 import time
 
-BROKER = "test.mosquitto.org"
+BROKER = "broker.emqx.io"
 PORT = 1883
 PREFIX = "stanislawrayzacher_lightmanager"
 
